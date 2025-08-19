@@ -23,9 +23,9 @@
 ### Инструкция
 1. Клонируйте репозиторий:
 ```bash
-git clone https://github.com/614/ваш-todo-list.git
+git clone https://github.com/Flaper614/To-do-List
 ```
-2. Перейдите в папку проекта (для Linux):
+2. Перейдите в папку проекта:
 ```bash
 cd To_Do_List v0.1
 ```
